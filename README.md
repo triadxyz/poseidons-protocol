@@ -1,6 +1,6 @@
-# 🌊 Poseidon Protocol
+# 🌊 Poseidons Protocol
 
-Poseidon Protocol is a revolutionary gaming and rewards ecosystem built on Solana blockchain. Players can collect Poseidon NFTs to participate in our rewards program, earning $TRD tokens directly from Triad Markets.
+Poseidons Protocol is a revolutionary gaming and rewards ecosystem built on Solana blockchain. Players can collect Poseidon NFTs to participate in our rewards program, earning $TRD tokens directly from Triad Markets.
 
 ### Key Features
 
