@@ -30,18 +30,7 @@ pub mod poseidons_protocol {
         let mut totalBetLost = 0.0;
         let mut totalBetWon = 0.0;
         let mut multiplier : f64;
-        user.push("a1");
-        betValue.push(12.66);
-        chosenHole.push(1);
-        cont += 1;
-        user.push("b2");
-        betValue.push(12.66);
-        chosenHole.push(2);
-        cont += 1;
-        user.push("c3");
-        betValue.push(0.31);
-        chosenHole.push(3);
-        cont+= 1;
+        
         rabbitHole = random_number;
         println!("The rabbit has chosen the {}° hole", rabbitHole);
         for i in 0.. cont{
